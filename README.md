@@ -1,28 +1,24 @@
-Worthy - Free Bootstrap Template
+The Cutting Edge Foundation - Website
 =======================================================================
 
-Worhty is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
-You can use it for corporate, business and agency webpages as well as 
-portfolio and personal webpages.
+This is the Official website for The Cutting Edge Foundation, an organization that advocates for Robotic Surgery.
 
-If you like the template and find it useful, please help us spread the word :-)
 
-- Theme version: v1.0
-- Release Date: 13 Nov 2014
-- Author: HtmlCoder (http://htmlcoder.me)
-- Contact: http://htmlcoder.me/contact
+- Theme Name: Worthy v1.0
+- Date Started: 5 June 2015
+- Author: Rohan Katakam, Ishaan Sehgal
+- Contact: thecuttingedge@gmail.com
 
-Live Preview
+Credits
 =======================================================================
-http://www.htmlcoder.me/preview/worthy/v.1.0
+Rohan Katakam
+Ishaan Sehgal
 
-License
+Theme License
 =======================================================================
 Worthy is released under the Creative Commons Attribution 3.0 License
 https://creativecommons.org/licenses/by/3.0/
 
-Credits
-=======================================================================
 
 Demo images
 ------------------------------------------------------
