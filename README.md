@@ -6,7 +6,7 @@ This is the Official website for The Cutting Edge Foundation, an organization th
 
 - Theme Name: Worthy v1.0
 - Date Started: 5 June 2015
-- Author: Rohan Katakam, Ishaan Sehgal
+- Author: Rohan Katakam and Ishaan Sehgal
 - Contact: thecuttingedge@gmail.com
 
 Credits
