@@ -580,10 +580,14 @@ textarea {
 
 /* Testimonials
 ---------------------------------- */
-.testimonial .media-left {
+.testimonial{
 	width: 60px;
 }
 
+.media-left{
+width:70px; 
+
+}
 /* Social Links
 ---------------------------------- */
 .social-links {
@@ -728,13 +732,15 @@ text-align: left;
     font-size:30px; 
     color:rgb(153, 204, 255); 
     font-weight:900; 
-    font-family:sans-serif; 
+  font-family: 'sans-serif; 
+    
     
     
     
 }
 .media-body{
 text-align: left; 
+  
 }
 .newcolor{
 background-color:rgb(110,128,175);
@@ -742,7 +748,8 @@ background-color:rgb(110,128,175);
     font-weight:900; 
     font-size:25px; 
     line-height: 2em;
-    font-family: sans-serif;
+    
+  
      
 }
 
@@ -752,12 +759,14 @@ color:rgb(153, 204, 255);
     top:20px; 
     right:0;
     left:0; 
+   font-family: sans-serif; 
 
 }
 .media p{
 position:relative; 
     left:1.3em; 
     font-size: 20px; 
+    font-family: sans-serif; 
 }
 
 
