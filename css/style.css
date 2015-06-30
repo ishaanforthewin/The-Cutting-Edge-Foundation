@@ -271,6 +271,7 @@ blockquote {
 	padding-top: 30px;
   
 }
+
 .pr-10 {
 	padding-right: 10px;
 }
@@ -293,6 +294,7 @@ blockquote {
 }
 .banner-caption h1 {
 	font-size: 60px;
+     
 }
 .subfooter p {
 	margin-bottom: 0;
@@ -308,7 +310,6 @@ blockquote {
 	line-height: 1.42857143;
 	min-width: 160px;
 	text-align: center;
-	border-radius: 0;
 	text-transform: uppercase;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
@@ -319,6 +320,8 @@ blockquote {
 .btn-default {
 	color: #55acee;
 	border: 1px solid #cccccc;
+    border-top-right-radius: 10px; 
+    border-bottom-left-radius: 10px; 
 }
 .btn-default:hover {
 	color: #ffffff;
@@ -507,6 +510,7 @@ textarea {
 	}
 	.navbar-nav {
 		float: left !important;
+      
 	}
 }
 @media (max-width:767px) {
@@ -518,7 +522,7 @@ textarea {
 /* Fixed Header
 ----------------------------------------------------------------------------- */
 .fixed-header-on .header {
-	background-color: rgba(0, 0, 0, 0.95);
+	background-color: rgb(110,128,175);
 	padding: 5px 0;
 }
 .fixed-header-on .site-name {
@@ -768,6 +772,7 @@ position:relative;
     font-size: 20px; 
     font-family: sans-serif; 
 }
+
 
 
 
