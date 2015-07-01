@@ -310,6 +310,19 @@ a.wordpress-blog:active{
 .subfooter p {
 	margin-bottom: 0;
 }
+#clients{
+font-size: 50px; 
+    position:relative;
+    top:30px; 
+    color: rgb(130,128,175);
+    text-transform: capitalize; 
+}
+.donatep{
+position:relative;
+    bottom:10px; 
+     font-size: 24px; 
+
+}
 
 /* Template Components
 ----------------------------------------------------------------------------- */
