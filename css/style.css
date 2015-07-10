@@ -178,6 +178,26 @@ a.wordpress-blog:active{
 	padding: 80px 0;
 }
 
+
+/* BG Video */
+/* STILL IN EXPERIMENTATION NEED REAL VIDEO */ 
+
+#bgvid{
+    
+min-height: 100%; 
+min-width: 100%; 
+width: auto; 
+height: auto;     
+
+}
+
+
+
+
+
+
+
+
 /* Backgrounds
 ----------------------------------------------------------------------------- */
 .default-bg {
@@ -344,8 +364,11 @@ position:relative;
 .btn-default {
 	color: #55acee;
 	border: 1px solid #cccccc;
-    border-top-left-radius: 10px; 
-    border-bottom-right-radius: 10px; 
+    position:relative; 
+    top:5px; 
+    right:0px; 
+    left:0px; 
+    
 }
 .btn-default:hover {
 	color: #ffffff;
@@ -357,7 +380,6 @@ position:relative;
     top:2px; 
     right:0px; 
     left:0px; 
-
 }
 
 /* Collapse
@@ -511,7 +533,7 @@ textarea {
 }
 .main-navigation .navbar-default .navbar-nav > li > a {
 	color: #fff;
-	padding: 10px 20px;
+	padding: 20px 14px;
 	font-size: 18px;
 	font-weight: 300;
 }
@@ -527,6 +549,7 @@ textarea {
 	.main-navigation .navbar-default .navbar-nav > li > a {
 		padding-top: 30px;
 		padding-bottom: 30px;
+        
 		-webkit-transition: all 0.3s ease-in-out;
 		-moz-transition: all 0.3s ease-in-out;
 		-o-transition: all 0.3s ease-in-out;
@@ -538,6 +561,7 @@ textarea {
 	.main-navigation .container-fluid {
 		padding-left: 0;
 		padding-right: 0;
+        
 	}
 	.navbar-nav {
 		float: left !important;
@@ -547,6 +571,7 @@ textarea {
 @media (max-width:767px) {
 	.header.navbar-fixed-top {
 		position: absolute;
+     
 	}
 }
 
