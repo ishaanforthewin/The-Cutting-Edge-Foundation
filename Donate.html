@@ -47,18 +47,19 @@
 </head>
 <body>
 
-<div id='cssmenu'>
-   
-<ul>
-   <li><a href='#'><span>Home</span></a></li>
-   <li><a href='#'><span>Our Mission</span></a></li>
-   <li><a href='#'><span>FAQ</span></a></li>
-       <li><a href='#'><span>Donate</span></a></li>
-   <li class='last'><a href='#'><span> Contact </span></a></li>
+                <!-- Donation Form --> 
+                <form action="/charge" method="POST" style="text-align:center"><br>
+  <script
+    src="https://checkout.stripe.com/checkout.js"
+    class="stripe-button"
+    data-key="pk_test_6pRNASCoBOKtIshFeQd4XMUh"
+    data-image="/images/logo.png"
+    data-name="Donate"
+    data-description="2 widgets ($20.00)"
+    data-amount="2000">
+  </script>
+</form>
 
-    </ul>
-   
-</div>
 
 </body>
 
