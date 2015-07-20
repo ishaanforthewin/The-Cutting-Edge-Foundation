@@ -21,8 +21,8 @@ body {
 body {
 	font-size: 15px;
 	line-height: 1.50;
-	color: #333333;
-	background-color: #ffffff;
+	color:#333333;
+	background-color:#ffffff;
 	position: relative;
 }
 
@@ -125,15 +125,18 @@ blockquote {
 	-ms-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
+
 a.wordpress-blog:hover{
 color: rgb(130,128,175);
     text-decoration: none; 
+    
 }
 a.wordpress-blog:active{
     position:relative; 
     top:1px; 
     left:0px;
-    right:0px; 
+    right:0px;
+    
 }
 
 .banner {
