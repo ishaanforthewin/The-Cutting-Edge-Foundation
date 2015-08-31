@@ -186,16 +186,17 @@ a.wordpress-blog:active{
 /* STILL IN EXPERIMENTATION NEED REAL VIDEO */ 
 
 #bgvid{
-    
 min-height: 100%; 
 min-width: 100%; 
 width: auto; 
 height: auto;     
-
 }
 
+.container img{
+    margin-left: auto; 
+    margin-right: auto; 
 
-
+}
 
 
 
@@ -795,7 +796,7 @@ text-align: left;
     font-size:30px; 
     color:rgb(153, 204, 255); 
     font-weight:900; 
-  font-family: 'sans-serif'; 
+  font-family: 'Open Sans', arial, sans-serif; 
     
     
     
@@ -806,25 +807,20 @@ text-align: left;
   
 }
 .newcolor{
-background-color:rgb(110,128,175);
+    background-color:rgb(110,128,175);
     color:#FFFFFF; 
     font-weight:900; 
     font-size:25px; 
     line-height: 2em;
-    
-  
-     
 }
 
-
 #services{
-color:rgb(153, 204, 255); 
+    color:rgb(153, 204, 255); 
     position: relative; 
     top:20px; 
     right:0;
     left:0; 
-   font-family: sans-serif; 
-
+   font-family: 'Open Sans', sans-serif; 
 }
 
 /*simple text edit of text below our missions */ 
