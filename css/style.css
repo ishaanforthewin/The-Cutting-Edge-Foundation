@@ -579,6 +579,22 @@ textarea {
 	}
 }
 
+@media only screen and (max-device-width: 660px){
+ #social-platforms {
+    display: none; 
+  }
+
+.header-text {
+    display: none;
+    }
+}
+@media (max-width: 660px){
+  #social-platforms {
+    display: none; 
+  }
+    
+}
+
 /* Fixed Header
 ----------------------------------------------------------------------------- */
 .fixed-header-on .header {
