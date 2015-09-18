@@ -587,12 +587,19 @@ textarea {
 .header-text {
     display: none;
     }
+    
+    .blog-text{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+    }
+    
 }
 @media (max-width: 660px){
   #social-platforms {
     display: none; 
   }
-    
+
 }
 
 /* Fixed Header
