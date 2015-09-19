@@ -588,11 +588,6 @@ textarea {
     display: none;
     }
     
-    .blog-text{
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center; 
-    }
     
 }
 @media (max-width: 660px){
@@ -1063,3 +1058,8 @@ position: relative;
     box-shadow: 1px 1px 5px #999; 
 } 
 
+.donate-header{
+text-align: center; 
+font-size: 40px;
+
+}
